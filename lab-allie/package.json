@@ -1,0 +1,25 @@
+{
+  "name": "lab-allie",
+  "version": "1.0.0",
+  "description": "Lab 3 working on fs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "fs",
+    "makefile"
+  ],
+  "author": "Allie Grampa",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "mocha": "^3.2.0"
+  }
+}
